@@ -1,0 +1,36 @@
+//
+//  Intro.strings
+//  Nextcloud iOS
+//
+//  Copyright (c) 2017 TWS. All rights reserved.
+//
+//  Author Marino Faggiana <m.faggiana@twsweb.it>
+//
+//  This program is free software: you can redistribute it and/or modify
+//  it under the terms of the GNU General Public License as published by
+//  the Free Software Foundation, either version 3 of the License, or
+//  (at your option) any later version.
+//
+//  This program is distributed in the hope that it will be useful,
+//  but WITHOUT ANY WARRANTY; without even the implied warranty of
+//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//  GNU General Public License for more details.
+//
+//  You should have received a copy of the GNU General Public License
+//  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+//
+
+"_intro_1_title_"   = "PS4U";
+"_intro_1_text_"    = "Schneller Zugriff auf die Reviews auf dem Gruppenlaufwerk";
+
+"_intro_11_title_"  = "Gestenunterstützung";
+"_intro_11_text_"   = "Wische nach → oder ←: Optionen \n\nLang drücken: Kopieren/einfügen oder Öffnen in…";
+
+"_intro_2_title_"   = "Interner Viewer";
+"_intro_2_text_"    = "PDF- und PPT-Dateien direkt in der App anschauen";
+
+"_intro_3_title_"   = "Los geht's";
+"_intro_3_text_"    = "Viel Spaß bei der Nutzung";
+
+"_introNoCryptoCloud_1_title_" = "Crypto Cloud";
+"_introNoCryptoCloud_1_text_"  = "Crypto Cloud encryption protocol is no longer available, you can still decrypt your files by downloading the free app from AppStore\n\n'CryptoCloud for Nextcloud'\n\nSoon there will be a new EndToEnd protocol available on all Nextcloud clients\n\n\nTap to Start";
